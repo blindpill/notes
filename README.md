@@ -1,1 +1,1 @@
-I have no social media (except from Agora)
+I have no social media
