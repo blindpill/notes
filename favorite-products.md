@@ -1,9 +1,9 @@
 Favorite products
 
-<a href= Notational Velocity
+<a href= "https://notational.net/"> Notational Velocity </a>
 
-Wikipedia
+<a href="https://www.wikipedia.org/"> Wikipedia </a>
 
 <a href= "https://library.memoryoftheworld.org/"> Memory of the World Library </a>
 
-Soulseek
+<a href= "https://www.slsknet.org/news/"> Soulseek </a>
