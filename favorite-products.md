@@ -11,6 +11,3 @@ Favorite products
 <a href= "https://freedom.to/">Freedom</a>
 
 <a href= "https://nitter.net/">Nitter</a>
-
-<a href= "https://www.wikipedia.org/"> Wikipedia </a>
-
