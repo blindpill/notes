@@ -9,3 +9,5 @@ Favorite products
 <a href= "https://www.slsknet.org/news/"> Soulseek </a>
 
 <a href= "https://ublockorigin.com/">uBlock Origin</a>
+
+<a href= "https://freedom.to/">Freedom</a>
