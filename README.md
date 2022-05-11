@@ -1,1 +1,1 @@
-I have no social media
+You can reach me at @blindpill on Twitter
