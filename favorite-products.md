@@ -11,3 +11,5 @@ Favorite products
 <a href= "https://freedom.to/">Freedom</a>
 
 <a href= "https://nitter.net/">Nitter</a>
+
+<a href= "https://fouadwa.com/">Fouad</a>
