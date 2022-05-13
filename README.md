@@ -1,3 +1,1 @@
-You can¹ reach me at @blindpill on Twitter
-
-¹[Citation needed]
+My name is Nicolás and you can reach me at @blindpill on Twitter
