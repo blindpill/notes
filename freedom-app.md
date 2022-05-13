@@ -2,7 +2,8 @@ The Freedom App is THE solution for phone addiction. My average screen time nowa
 
 (this guide is for iPhone only. I'm unaware of how Android works)
 
--Buy a lifetime subscription for Freedom. It's expensive but it's worth it.
+-Buy a lifetime subscription for Freedom. It's expensive but it's worth it. In this way you make sure that it'll never stop working if you have a problem
+with your credit card or if you intentionally decide to cancel the subscription.
 
 -Create a recurrent session for each day of the week that goes from 1pm to 1pm for example.
 
