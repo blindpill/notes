@@ -1,4 +1,4 @@
-The Freedom App is THE solution for phone addiction. My average screen time nowadays is below half an hour. These are the steps you have to follow:
+The Freedom App is THE solution for phone addiction. My average screen time nowadays is below half an hour (it used to be around 8 hours). These are the steps you have to follow:
 
 (this guide is for iPhone only. I'm unaware of how Android works)
 
